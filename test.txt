@@ -1,3 +1,5 @@
 ini hanya untuk mengetes
 
 ini untuk mengubah file (modified) dan mengusulkan pull ke repo asli (dari fork) 
+
+membuat perubahan dilokal dan berada di branch newfeature
